@@ -1,0 +1,283 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 7, 2016, 7:54:05 AM
+    Author     : NisalSP9
+*/
+
+.ManageUser{
+    text-align: center;
+    font-size: 18px;
+}
+
+.TitleIndex{
+    width: 100%;
+    background-color: #1b273d;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.containt{
+    elevation: higher;
+}
+
+.Title{
+    background-color: #1b273d;
+    text-align: left;
+    margin-bottom: 0px;
+
+}
+
+
+
+.Title1{
+    background-color: #1b273d;
+    text-align: right;
+    margin-bottom: 1px;
+
+}
+
+.Letter{
+    font-size: 32px;
+    color: white;
+    margin-left:8px;
+    margin-top: 10px;
+}
+
+.LetterOnRed{
+    font-size: 22px;
+    color: #1b273d;
+    margin-left:4px;
+    margin-top: 10px;
+}
+
+.TextFields{
+    background-color: #ffffff;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 16px;
+    text-align: center;
+    border-width: 0px;
+    font-size: 28px;
+}
+
+.FormTextBox{
+    font-weight: bolder ;
+    color: black;
+    margin-top: 15px;
+    margin-left: 10px;    
+    padding: 12px 5px;    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 48%;
+}
+
+.LableTB{
+    font-weight: bolder ;
+    color: black;
+    margin-top: 15px;
+    margin-left: 10px;
+    border: transparent;
+    width: 15%;
+}
+
+.TBwithLable{
+    font-weight: bolder ;
+    color: black;
+    margin-top: 15px;
+    margin-left: 10px;    
+    padding: 12px 5px;    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 25%;
+}
+
+.IDTB{
+    font-weight: bolder ;
+    color: black;
+    margin-top: 15px;
+    margin-left: 10px;    
+    padding: 12px 5px;    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 15%;
+    text-align: center;
+}
+
+.FormTextBox1{
+    font-weight: bolder ;
+    color: black;
+    margin-top: 15px;
+    margin-left: 10px;    
+    padding: 12px 5px;    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 29.75%;
+}
+
+.FormTextBox3{
+    margin-top: 15px;
+    margin-left: 10px;    
+    padding: 12px 5px;    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 20%;
+}
+
+.FormTextBox5{
+    margin-right: 0px;
+    margin-top: 15px;
+    margin-left: 1px;    
+    padding: 12px 5px;    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 25%;
+}
+
+.FormTextBox4{
+    text-align: center;
+    margin-right: 0px;
+    margin-top: 15px;
+    margin-left: 10px;    
+    padding: 12px 5px;    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 5%;
+}
+
+.dateBox{
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 10px;    
+    padding: 12px 5px;    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+    width: 7%;
+}
+
+.FormTextBox2{
+    font-weight: bolder ;
+    color: black;
+    margin-top: 15px;
+    margin-left: 10px;    
+    padding: 12px 5px;    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 31.75%;
+}
+
+.line-separator{
+    margin-top: 6px;
+    height:1px;
+    background:#717171;
+    border-bottom:1px solid #313030;
+}
+
+.FormTopics{
+    font-weight:bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: black;
+    font-weight: bold;
+}
+
+body{
+    background-color: #78909C;
+}
+
+
+
+.TextFields-s{
+    margin-top: 300px;
+    background-color: #78909C;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 16px;
+    text-align: center;
+    border-width: 0px;
+    font-size: 28px;
+}
+
+.TitelRedSpec{
+
+    background-color: #D50000;
+    text-align: center;
+    margin-bottom: 50px;
+    height:5px;
+
+}
+
+.TitelRedSpecfront{
+
+    background-color: #D50000;
+    text-align: center;
+    margin-bottom: 200px;
+    height:5px;
+
+}
+
+.select-editable { position:relative; background-color:white; border:solid grey 1px;  width:120px; height:18px; }
+.select-editable select { position:absolute; top:0px; left:0px; font-size:14px; border:none; width:120px; margin:0; }
+.select-editable input { position:absolute; top:0px; left:0px; width:100px; padding:1px; font-size:12px; border:none; }
+.select-editable select:focus, .select-editable input:focus { outline:none; }
+
+.cfs{
+
+/* background-color:#0097a7;*/
+/*background-color:#795548;*/
+/*background-color:#00BCD4;*/
+
+}
+
+.buttonMatter{
+    
+    margin-top: 100px; 
+      
+
+}
+
+.updateTableStyle{
+    
+   border-color: transparent;
+   background: transparent;
+   width: 50px;
+   text-align: center;
+       
+    
+}
+
+.updateTableStylelong{
+    
+   border-color: transparent;
+   background: transparent;
+   width: 150px;
+   text-align: center;
+       
+    
+}
